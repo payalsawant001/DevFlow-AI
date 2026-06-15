@@ -260,4 +260,4 @@ This project demonstrates:
 
 **Payal Sawant**
 
-Aspiring Software Developer | MERN Stack Developer | AI Enthusiast
+Software Developer | MERN Stack Developer | AI Enthusiast
